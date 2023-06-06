@@ -1,2 +1,2 @@
 # news-letter-chalange
-my first chalange in Frontend Mentor
+my first challenge in Frontend Mentor
